@@ -25,7 +25,7 @@ public class FruitShopManagementSystem extends JFrame implements ActionListener 
         getContentPane().setBackground(new Color(245, 222, 179));
 
         title = new JLabel("FRUIT SHOP MANAGEMENT SYSTEM");
-        title.setBounds(170, 20, 550, 40);
+        title.setBounds(120, 20, 800, 50);
         title.setFont(new Font("Arial", Font.BOLD, 32));
         title.setForeground(Color.RED);
         add(title);
