@@ -104,7 +104,7 @@ public class FruitShopManagementSystem extends JFrame implements ActionListener 
         add(billBtn);
 
         billArea = new JTextArea();
-        billArea.setBounds(140, 560, 550, 120);
+        billArea.setBounds(140, 560, 650, 180);
         billArea.setFont(new Font("Monospaced", Font.BOLD, 16));
         add(billArea);
 
@@ -187,8 +187,6 @@ public class FruitShopManagementSystem extends JFrame implements ActionListener 
                 "Total Amount  : Rs. " + total + "\n" +
                 "GST (5%)      : Rs. " + gst + "\n" +
                 "Final Amount  : Rs. " + finalAmount + "\n\n" +
-                "Console-Based Implementation\n" +
-                "GUI-Based Implementation\n\n" +
                 "Thank You For Visiting!"
             );
         }
