@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-05-08 010923" src="https://github.com/user-attachments/assets/5c804a5d-a78a-43c3-b7b2-64ec6da765c0" />
-<img width="1920" height="1080" alt="Screenshot 2026-05-08 011041" src="https://github.com/user-attachments/assets/168fe1c4-4639-4aa3-be07-5844e5e670a2" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-11 204813" src="https://github.com/user-attachments/assets/36588a1d-d73a-421a-a17b-dc628ef03b33" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-11 204138" src="https://github.com/user-attachments/assets/e0249002-0dc3-49b4-b5ef-8b638f70b958" />
 
 # FruitShopManagementSystem
